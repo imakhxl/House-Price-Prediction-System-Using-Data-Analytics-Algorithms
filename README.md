@@ -2,15 +2,6 @@
 
 This project is focused on predicting house prices using data analytics and machine learning algorithms. The dataset used is a collection of various house features and sale prices. The project involves data preprocessing, exploratory data analysis, data cleaning, and the implementation of a Support Vector Machine (SVM) model to predict house prices.
 
-## Table of Contents
-- [Project Overview](#project-overview)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [Model Performance](#model-performance)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Project Overview
 The goal of this project is to create a predictive model that estimates house prices based on various features. The process involves:
 
